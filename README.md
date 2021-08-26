@@ -1,3 +1,5 @@
+NMB: Test add a line should trigger workflow rerun
+
 ## Gradient StyleGAN2 Template Repo
 
 This is a Github template repo you can use to create your own copy of the forked StyleGAN2 sample from NVLabs.
